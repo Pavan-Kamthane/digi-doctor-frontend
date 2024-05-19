@@ -1,0 +1,11 @@
+@import url("./theme.css");
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    background: var(--primary-color);
+    color: var(--on-primary-color);
+    font-size: 1.5rem;
+}
